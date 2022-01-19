@@ -2,10 +2,16 @@
 AGTECH REPO
 
 # REMOTE SENSING
-Spectral indices remote sensing repo https://github.com/davemlz/awesome-spectral-indices
+Spectral indices remote sensing repo 
+https://github.com/davemlz/awesome-spectral-indices
+
 Spectral indices remote sensing Google Earht Engine
+https://github.com/davemlz/spectral
 
 # DATA SICENCE
+3O REPOSITORIES DATA SCIECE
+https://www.theinsaneapp.com/2021/09/best-github-repositories-for-data-science.html
+
 10 DATA SCIENCE BOOKS
 
 ✅ Python Data Science Handbook
