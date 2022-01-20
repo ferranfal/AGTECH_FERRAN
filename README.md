@@ -9,8 +9,11 @@ Spectral indices remote sensing Google Earht Engine
 https://github.com/davemlz/spectral
 
 # DATA SICENCE
-3O REPOSITORIES DATA SCIECE
+3O REPOSITORIES DATA SCIECE \n
 https://www.theinsaneapp.com/2021/09/best-github-repositories-for-data-science.html
+
+A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)
+https://iamtrask.github.io/2015/07/27/python-network-part2/
 
 10 DATA SCIENCE BOOKS
 
