@@ -13,6 +13,10 @@ Machine Learning
 Decision Trees: 
 https://www.youtube.com/watch?v=7VeUPuFGJHk
 
+Random Forest
+https://www.youtube.com/watch?v=J4Wdy0Wc_xQ 
+
+
 3O REPOSITORIES DATA SCIECE
 https://www.theinsaneapp.com/2021/09/best-github-repositories-for-data-science.html
 
