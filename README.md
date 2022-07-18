@@ -5,6 +5,9 @@ AGTECH REPO
 Spectral indices remote sensing repo 
 https://github.com/davemlz/awesome-spectral-indices
 
+Satellite images deep learning
+https://github.com/robmarkcole/satellite-image-deep-learning
+
 Spectral indices remote sensing Google Earht Engine
 https://github.com/davemlz/spectral
 
